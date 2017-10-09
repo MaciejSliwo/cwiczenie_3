@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507559721 source:d:\maciej Œliwonik\cwiczenie_3\zadanie_0\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
